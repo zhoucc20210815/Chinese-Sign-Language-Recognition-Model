@@ -1,4 +1,4 @@
-# Chinese-Sign-Language-Recognition-Model
+# Chinese-Sign-Language-Recognition-Model-Based-on-YOLOv5-and-MediaPipe
 
 **Author:** Zixi Zhou  
 **GitHub:** [Chinese-Sign-Language-Recognition-Model](https://github.com/zhoucc20210815/Chinese-Sign-Language-Recognition-Model)
