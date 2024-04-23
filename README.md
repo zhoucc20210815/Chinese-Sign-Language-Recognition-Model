@@ -48,7 +48,11 @@ Due to GitHub's file upload limitations, I couldn't upload all the necessary fil
 
 ### DATASHEET
 - **Supplementary Explanations for the Dataset:** `DATASHEET.md`
+  
 - **Illustration in the DATASHEET:** `image.png`
+
+### Report:
+- **Final essay**: `Chinese Sign Language Recognition Model.pdf`. 
 
 ## Python Version Requirement
 All code is built to run on **Python 3.11.8**, Some parts of the code are only applicable for running on **Google Colab** (already annotated in the respective sections). Please ensure your Python environment meets this version requirement.
