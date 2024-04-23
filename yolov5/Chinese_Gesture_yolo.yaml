@@ -1,0 +1,7 @@
+train: chinese_gesture_yolo/images/train
+val: chinese_gesture_yolo/images/validation
+nc: 4
+names: ['arrive',
+        'food',
+        'good',
+        'you']
