@@ -1,8 +1,7 @@
-# AI-4-Media-23-24-Mini-Project
+# Chinese-Sign-Language-Recognition-Model
 
 **Author:** Zixi Zhou  
-**Student ID:** 23011611  
-**GitHub:** [2023_AI_4_Media_Zixi_Zhou](https://git.arts.ac.uk/23011611/2023_AI_4_Media_Zixi_Zhou)
+**GitHub:** [Chinese-Sign-Language-Recognition-Model](https://github.com/zhoucc20210815/Chinese-Sign-Language-Recognition-Model)
 
 ## Introduction
 This folder contains files for **chinese gesture recognizer** projects developed based on **yolov5** and on **mediapipe** model. 
